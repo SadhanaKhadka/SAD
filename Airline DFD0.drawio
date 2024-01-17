@@ -1,0 +1,108 @@
+<mxfile host="65bd71144e">
+    <diagram id="5RJ-xLcAQ2Vj2R7OaH_4" name="Page-1">
+        <mxGraphModel dx="629" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="47" style="edgeStyle=none;html=1;entryX=0.685;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="230"/>
+                            <mxPoint x="370" y="230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="ticket info." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="47">
+                    <mxGeometry x="0.0619" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.618;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="260"/>
+                            <mxPoint x="370" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="reg. info." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="53">
+                    <mxGeometry x="0.1806" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="user" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="142.5" width="70" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="460" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="ticket no." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="15">
+                    <mxGeometry x="-0.0451" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="reg no." style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="140" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="400" y="110"/>
+                            <mxPoint x="490" y="110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;entryX=0.593;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="empty seats" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="28">
+                    <mxGeometry x="0.1695" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="income" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="320" y="80"/>
+                            <mxPoint x="553" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="receipt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="42">
+                    <mxGeometry x="0.0177" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="air&amp;nbsp;&lt;br&gt;ticket&lt;br&gt;reservation" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="110" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="flight updates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="55">
+                    <mxGeometry x="0.1822" y="2" relative="1" as="geometry">
+                        <mxPoint y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Administration" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="340" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="plane status update" style="edgeStyle=none;html=1;entryX=0.385;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35" target="14">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="110" y="110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="airline" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="137.5" width="90" height="45" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
